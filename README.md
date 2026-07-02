@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/banner.png" width="100%" alt="Sopanha Khim Banner">
+</p>
+
+<br>
 # Sopanha Khim
 
 Computer Science Student | Web Developer | Digital Technology
