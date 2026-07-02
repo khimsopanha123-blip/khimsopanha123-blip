@@ -1,4 +1,9 @@
 <p align="center">
+  <img src="./github-banner.png" width="100%" alt="Sopanha Khim GitHub Banner">
+</p>
+
+<br>
+<p align="center">
   <img src="images/banner.png" width="100%" alt="Sopanha Khim Banner">
 </p>
 
