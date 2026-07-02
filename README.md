@@ -1,133 +1,62 @@
-<div align="center">
+# Sopanha Khim
 
-# Hi, I'm Sopanha Khim 👋
+Computer Science Student | Web Developer | Digital Technology
 
-### Computer Science Student • Web Developer • AI • Digital Technology
-
-Building practical digital solutions through software development, web technologies, artificial intelligence, digital marketing, and business innovation.
+Chicago, Illinois
 
 ---
 
-### 🚀 Current Focus
+## About
 
-🌐 Building Modern Websites
+I'm a Computer Science student passionate about building practical digital solutions through software development, websites, AI, and business technology.
 
-🤖 Exploring Artificial Intelligence
-
-💻 Full Stack Development
-
-📈 Digital Technology & Business
-
-</div>
+My experience includes web development, Shopify, WordPress, React, Next.js, digital marketing, and website management. I enjoy creating clean, user-focused digital experiences that solve real business problems.
 
 ---
 
-# 💻 About Me
+## Featured Projects
 
-I'm a Computer Science student based in Chicago, Illinois with a passion for combining technology and business to solve real-world problems.
+• Lucky Alanka
+Luxury jewelry e-commerce website built with Shopify.
 
-My experience includes:
+• Truman Middle College High School
+Website management and digital improvements.
 
-- 🌐 Web Development
-- 💎 Shopify E-commerce
-- ⚛️ React & Next.js
-- 🤖 AI-powered workflows
-- 📊 Digital Marketing
-- 🎯 UX & Website Strategy
-- 🚀 Business Technology
+• Centurion Intelligence
+Website modernization and UX research.
 
-I enjoy creating clean, modern, and user-friendly digital experiences that help businesses grow.
+• Personal Portfolio
+Portfolio built with Next.js, React, TypeScript, and Tailwind CSS.
 
 ---
 
-# 🚀 Featured Projects
+## Technologies
 
-### 🌐 Personal Portfolio
+HTML • CSS • JavaScript • TypeScript
 
-Modern portfolio built with Next.js, React, TypeScript, and Tailwind CSS.
+React • Next.js • Tailwind CSS
 
----
+WordPress • Shopify
 
-### 💎 Lucky Alanka
+Git • GitHub • Vercel
 
-Luxury jewelry e-commerce brand built with Shopify.
-
----
-
-### 🏫 Truman Middle College Website
-
-Website management, content organization, and digital improvements.
+ChatGPT • Claude • Gemini
 
 ---
 
-### 🛰️ Centurion Intelligence
+## Education
 
-Modernizing a technology company's website through UX research, CMS evaluation, and web strategy.
+Harry S Truman College
+Associate in Science — Computer Science
 
----
-
-# ⚡ Technical Skills
-
-### Languages
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- Python
-- C++
-
-### Frameworks
-
-- React
-- Next.js
-- Tailwind CSS
-
-### Platforms
-
-- WordPress
-- Shopify
-- GitHub
-- Vercel
-
-### AI
-
-- ChatGPT
-- Claude
-- Gemini
-- Cursor AI
+Expected Graduation: December 2026
 
 ---
 
-# 🎯 Currently Learning
+## Connect
 
-- Full Stack Development
-- API Integration
-- SQL
-- Power BI
-- Cloud Technologies
-- Artificial Intelligence
+Portfolio (Coming Soon)
 
----
+LinkedIn
 
-# 📫 Connect With Me
-
-📧 Email
-
-Khimsopanha123@gmail.com
-
-💼 LinkedIn
-
-https://linkedin.com/in/khim-sopanha-71a41a3a5
-
-🌐 Portfolio
-
-Coming Soon...
-
----
-
-<div align="center">
-
-### ⭐ "Helping businesses use technology with confidence."
-
-</div>
+Email
